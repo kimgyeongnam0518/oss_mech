@@ -22,7 +22,6 @@
 3. 주요기능
 
  1) 2D orthographic views and drafting (2D 정사영 보기 및 도면 작성)
-![image](https://github.com/user-attachments/assets/f9cee5f9-1dc5-4531-bb35-0d2b7dff7c11) 
 CREO의 핵심 기능 중 하나는 2D 도면 보기 및 작성으로, 이 과정에서 사용자는 3D 
 모델의 다양한 면을 선택해 그 면의 정사영을 생성하여 물체의 구성 요소를 평면에서 표현할 수 있습니다.
 전면도, 상면도, 측면도 등의 뷰를 통해 각 면의 형태와 치수를 정확하게 반영하며, 이를 기반으로 물체를 시각적으로 명확하게 이해할 수 있습니다. 
