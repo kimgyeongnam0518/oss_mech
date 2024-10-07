@@ -5,3 +5,6 @@
 
 주요기능 - 김경남 (유한요소해석) 사진
 ![FEA image](https://github.com/user-attachments/assets/8f73dd4d-62d6-4e0b-b603-1bbb1b1d8b29)
+
+주요기능 - 신지윤 (시뮬레이션) 사진
+![제네바](https://github.com/user-attachments/assets/f2016044-9d49-4693-a2bd-1745ac4fd0df)
