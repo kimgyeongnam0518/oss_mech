@@ -12,3 +12,4 @@
 
 주요기능 - 유지현 (어셈블리) 사진
 ![어셈블리1](https://github.com/user-attachments/assets/6d3a9c39-30d8-4c55-ac66-6266d30ab873)
+![어셈블리2](https://github.com/user-attachments/assets/3f730b20-0600-475a-a33d-7ad50c2c6619)
